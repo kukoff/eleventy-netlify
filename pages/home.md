@@ -1,5 +1,5 @@
 ---
-title: About Zak Kukoff
+title: Zak Kukoff
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: About
