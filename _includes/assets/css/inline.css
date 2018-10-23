@@ -39,7 +39,7 @@ a[href]:visited {
 }
 
 a[href]:not(:hover) {
-	text-decoration: none;
+	text-decoration: underline;
 	color: var(--blue);
 }
 
