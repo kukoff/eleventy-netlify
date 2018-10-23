@@ -131,7 +131,7 @@ a[rel="tag"]:visited {
 	line-height: 2em;
 	height: 2em;
   border: 1px solid var(--white);
-	background-color: var(--white);
+	background-color: var(--turkey);
 	color: var(--blue);
   border-radius: .25em;
   text-decoration: none;
@@ -140,7 +140,7 @@ a[rel="tag"]:visited {
 
 a[rel="tag"]:hover {
 	border: 1px solid var(--blue);
-	background-color: var(--blue);
+	background-color: var(--turkey);
 	color: var(--white);
 }
 
