@@ -1,9 +1,8 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Zak Kukoff",
+  "url": "https://zck.netlify.com",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Zak Kukoff",
+    "email": "zk@zak.co",
   }
 }
