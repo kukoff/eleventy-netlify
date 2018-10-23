@@ -35,11 +35,12 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+	color: var(--white);
 }
 
 a[href]:not(:hover) {
 	text-decoration: none;
+	color: var(--white);
 }
 
 header,
@@ -133,7 +134,7 @@ a[rel="tag"]:visited {
 	height: 2em;
   border: 1px solid var(--white);
 	background-color: var(--turkey);
-	color: var(--blue);
+	color: var(--white);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
