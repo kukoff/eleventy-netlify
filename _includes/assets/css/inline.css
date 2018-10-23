@@ -43,7 +43,10 @@ a[href]:not(:hover) {
 	color: var(--blue);
 }
 
-header,
+header{
+	text-decoration: none;
+}
+
 main,
 footer {
 	padding: 1em;
@@ -87,6 +90,7 @@ header > em {
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
+	text-decoration: none;
 }
 
 /* Header Nav */
