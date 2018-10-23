@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
@@ -7,14 +6,6 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
+## I'm Zak,
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
-
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the project repo on [Github]({{ pkg.repository.url }}).
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+an investor at Emergence Capital. Previously, I worked at Flexport and founded an education technology startup that was backed by Techstars. I've also worked at First Round Capital's Dorm Room Fund, where I was a managing partner helping oversee the fund; at Stripes Group, where I was an analyst doing growth equity investing; and at the NewSchools Venture Fund's Reach Capital, where I spent time on the investment team. Along with my work, I've been featured in The New York Times, The Wall Street Journal, TechCrunch, Bloomberg View, and The Next Web, and have been honored by the Clinton Global Initiative and NBC Education Nation.
